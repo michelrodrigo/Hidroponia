@@ -1,0 +1,4 @@
+void enviaALerta(int problema)
+{
+  
+}
