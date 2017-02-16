@@ -1,4 +1,0 @@
-void enviaALerta(int problema)
-{
-  
-}
